@@ -1,2 +1,2 @@
 #this is a sample
-this is just a sample license file
+#APACHE 2.0
